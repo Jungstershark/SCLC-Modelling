@@ -3,6 +3,7 @@
 [![Jungstershark - SCLC-Modelling](https://img.shields.io/static/v1?label=Jungstershark&message=SCLC-Modelling&color=blue&logo=github)](https://github.com/Jungstershark/SCLC-Modelling "Go to GitHub repo")
 [![stars - SCLC-Modelling](https://img.shields.io/github/stars/Jungstershark/SCLC-Modelling?style=social)](https://github.com/Jungstershark/SCLC-Modelling)
 [![forks - SCLC-Modelling](https://img.shields.io/github/forks/Jungstershark/SCLC-Modelling?style=social)](https://github.com/Jungstershark/SCLC-Modelling)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
 ## Overview
 
@@ -24,7 +25,7 @@ The research investigates how current conduction transitions from field emission
 
 Install the required libraries:
 ```bash
-pip install numpy matplotlib
+pip install -r requirements.txt
 ```
 
 ### Running the Scripts
